@@ -1,4 +1,6 @@
-## read and explore data
+# STEPS TAKEN
+
+## Read and explore data
 - a total of 24026 sessions were recorded in one year (2008)
 - we only need two columns (sesssion id and product id)
 
