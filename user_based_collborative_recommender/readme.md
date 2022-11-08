@@ -37,4 +37,4 @@
 - case where a corelated user watched less movies than the random user
 
 ## CONCLUSION
-- I believe clustering does a better job that user based collaborative filtering
+- I believe clustering does a better job than user based collaborative filtering
