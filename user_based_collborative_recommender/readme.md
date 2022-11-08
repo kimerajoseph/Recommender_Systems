@@ -20,13 +20,13 @@
 
 ## Get the most popular moview in our dataset
 - group movies by movieId
-- aggregate average ratings per movie id for moviews with more than 100 reviews
+- aggregate average ratings per movie id for moviews with more than 10000 reviews
 - sort values and put most popular movies on top of the dataframe
 
 ## Get movies watched by the user with the highest correlation to our user
 - Get the first row of the dataframe where other users are ranked by correlation to our random user
 - Retain only moview watched by the user (drop columns with NaN from the pivot table)
-- Get moview watched by the correlated user but not our random user
+- Get movies watched by the correlated user but not our random user
 - Get df where movies are ranked by popularity
 - Recommend the moview to our random user by popularity (most popular one first)
 
